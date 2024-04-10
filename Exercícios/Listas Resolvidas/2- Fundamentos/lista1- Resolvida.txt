@@ -1,0 +1,61 @@
+1 - Categorize cada um dos seguintes itens como hardware ou software: 
+
+1. CPU (Hardware) 
+2. Disco rígido (Hardware) 
+3. Programa Word (Software) 
+4. Instagram (Software) 
+5. Teclado (Hardware) 
+ 
+2 - O que é software e qual sua importância? 
+Softwares são sistemas operacionais que executam algum algoritmo 
+
+3 - Defina com suas próprias palavras o que é algoritmo. 
+Algoritmo é uma sequência com ordem definida de etapas para execução de uma tarefa 
+
+4 - Cite exemplos de software usados na medicina, ciência no entretenimento que você conhece.  
+Instagram, Windows, google, android, etc... 
+
+5 - Quais softwares deixa sua vida mais fácil? Quais deixam sua vida mais complicada?  
+Softwares como (chat GPT, google chrome,android) facilitam minha vida. 
+Softwares como (Sigaa,IOS) me fazem passar um pouco de raiva. 
+
+6 - Considere uma atividade de sua rotina diária. Como a computação está direta ou indiretamente envolvida?  
+Nos meus estudos a computação está diretamente envolvida por meio das plataformas de estudo que são muito uteis pro meu desenvolvimento. 
+
+7 - A partir de sua experiência pessoal, descreva uma atividade que não seria possível sem computadores.  
+Marketing digital ou exploração espacial 
+
+8 - Faça uma Lista programas que você utiliza.   
+Windows, Microsoft 365, Phycharm,Word docs. 
+
+9 - Faça uma lista com dez atividades que não utilizam computadores de nenhuma maneira.  
+Pensar, caminhar,lutar,comer, se exercitar, amar ,sorrir, gargalhar, rezar e meditar. 
+
+10 - Você acha que a inteligência artificial vai acabar com empregos na área da computação? Justifique.  
+Não acho que ira acabar mas creio que pode reduzir significativamente, pois sempre haverá a necessidade de um ser humano que irá trazer soluções inovadoras até para o próximo desenvolvimento da IA. 
+
+11 - Descreva a capacidade de seu computador em termos de processamento, memória e armazenamento.  
+Eu tenho um notebook que possui dois discos rígidos de 1Terabyte sendo um SSD e um HD, além de 8Gigabytes de memória RAM, também possuo um processador intelcore i5 de sétima geração e uma placa de vídeo Nvidea 940MX 
+
+12 - Descreva um algoritmo para resolver um cubo mágico. 
+Pegar o cubo -> observar as cores e sua organização -> se as cores forem as respectivas para cada lado do cubo (pare) se não -> execute um movimento que gire uma das arestas ou o meio do cubo ->  repita o algaritimo. 
+
+13 - Qual a diferença entre bit e byte?  
+Um bit é a menor porção endereçável de um computador, e um Byte é a junção de 8bits 
+
+14 - Como representar números reais usando sistema binário?  
+Atráves da forma de utilização de uns e zeros com valores de base 2 
+
+15 - Descreva os passos para converter o número decimal 150 para sua representação em binário.  
+Pode se utilizar da tabela [128][64][32][16][8][4][2][1] com as devidas demarcações para adquirir o valor do número em binário. Por exemplo neste caso o valor mais próximo de 150 é [128] então marcamos a posição 128 com “1” e reduzimos esse valor de 150, sobrando então 22, cujo próximo valor aproximado é o [16] marcandoo com “1” sobrando 6 cujo mais próximo é [4] sobrando assim 2 cujo mais próximo é o próximo é o próprio [2] e assim substituindo os valores não utilizados da tabela por zero obtemos o seguinte valor byte (10010110) 
+
+16 - Descreva o papel do scrum master, dono do produto e do time de desenvolvimento.  
+O scrum master tem a função de organizar o projeto e suas informações  de forma que os membros que fazem parte desse projeto entendam seu funcionamento, sua ideia, sua funcionalidade e sua execução. 
+
+17 - Descreva os comandos para mover, copiar, e remover arquivos usando linha de comando no sistema operacional que você utiliza.  
+Mover -> /move 
+Copiar -> /copy 
+Remover -> /del 
+
+18 - Qual o padrão IEEE para redes WiFi? E para o Bluetooth? 
+802.11 para Wifi e 802.15 para Bluetooth 
